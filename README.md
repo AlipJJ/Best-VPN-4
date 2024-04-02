@@ -53,6 +53,16 @@
 
 可解锁资源：ChatGPT、Disney+、Netflix、TikTok
 
+### 5. CG加速器 无审计的IEPL专线机场
+[**点击官方网站注册**](https://go.51tz.cc/cyber)  
+最低套餐20元
+
+CyberGuard 机场是一家2023 年开始运营的 Shadowsocks 机场，线路有公网中转、IPLC 和 IEPL 专线，节点覆盖大陆常用地区。
+
+CyberGuard 机场节点包括香港、日本、韩国、新加坡、美国、德国、荷兰等。
+
+支持iOS, Android, macOS，Windows, Linux等客户端。无审计0日志不限设备数。
+
 -----
 
 ## 翻墙插件选择
