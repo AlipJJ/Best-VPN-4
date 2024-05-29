@@ -47,7 +47,7 @@
 [**点击官方网站注册**](https://go.51tz.cc/sodacloud)  
 最低不限时套餐50元
 
-苏打云机场VPN加速器，不限时不限速按量收费，提供Shadowsocks协议翻墙梯子，支持一键导入支持Clash、Shadowrocket、小火箭等翻墙插件。
+苏打云机场VPN加速器，不限时不限速按量收费，提供Shadowsocks协议翻墙梯子，支持一键导入支持Clash、Shadowrocket小火箭等翻墙插件。
 
 苏打云机场节点有：台湾、新加坡、日本、香港、美国、英国
 
