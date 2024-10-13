@@ -13,18 +13,18 @@
 
 -----
 
-### 1.JFCloud 疾风云机场 稳定机场推荐首选
-[**点击官方网站注册**](https://go.51tz.cc/jfcloud)  
-最低套餐月付只需9.9元
+### 1.尔湾云机场 稳定机场推荐首选
+[**点击官方网站注册**](https://go.1vpn.cc/ewan)  
+最低套餐月付只需11元
 
-疾风云机场加速器是一家专注于ShadowsocksR翻墙节点和V2ray翻墙节点。由海外团队运营，使用SSR和V2ray协议，一键导入支持Clash、Shadowrocket、小火箭等翻墙插件。
+尔湾云机场加速器是一家专注于ShadowsocksR翻墙节点和V2ray翻墙节点。由海外团队运营，使用SSR和V2ray协议，一键导入支持Clash、Shadowrocket、小火箭等翻墙插件。
 
-疾风云机场节点有：台湾、新加坡、日本、美国、香港、马来西亚、韩国、法国
+尔湾云机场节点有：台湾、新加坡、日本、美国、香港、马来西亚、韩国、法国
 
-可解锁流资源：ChatGPT、Disney+、Netflix、TikTok
+可解锁流资源：ChatGPT、Disney+、Netflix、TikTok等
 
 ### 2.NiceCloud 耐思云机场 稳定机场推荐优选
-[**点击官方网站注册**](https://go.51tz.cc/nicecloud)  
+[**点击官方网站注册**](https://go.1vpn.cc/nisi)  
 最低套餐月付只需12元
 
 耐思云机场加速器，提供Shadowsocks协议翻墙机场节点，支持一键导入支持Clash、Shadowrocket、小火箭等翻墙插件。
@@ -34,8 +34,8 @@
 可解锁流资源：ChatGPT、Disney+、Netflix、TikTok
 
 ### 3.Suyunti 速云梯机场 性价比IEPL专线机场推荐
-[**点击官方网站注册**](https://go.51tz.cc/sycloud)  
-最低套餐月付只需19.90元
+[**点击官方网站注册**](https://go.1vpn.cc/suyu)  
+最低套餐月付只需19元
 
 速云梯机场VPN加速器，提供Trojan协议及V2Ray协议翻墙机场节点，支持一键导入支持Clash、Shadowrocket、小火箭等翻墙插件。
 
@@ -44,7 +44,7 @@
 可解锁流资源：ChatGPT、Disney+、Netflix、TikTok
 
 ### 4. Sodayun 苏打云 不限时不限速按量收费机场推荐
-[**点击官方网站注册**](https://go.51tz.cc/sodacloud)  
+[**点击官方网站注册**](https://go.1vpn.cc/soda)  
 最低不限时套餐50元
 
 苏打云机场VPN加速器，不限时不限速按量收费，提供Shadowsocks协议翻墙梯子，支持一键导入支持Clash、Shadowrocket小火箭等翻墙插件。
@@ -54,7 +54,7 @@
 可解锁资源：ChatGPT、Disney+、Netflix、TikTok
 
 ### 5. CG加速器 无审计的IEPL专线机场
-[**点击官方网站注册**](https://go.51tz.cc/cyber)  
+[**点击官方网站注册**](https://go.1vpn.cc/xxfeng)  
 最低套餐20元
 
 CyberGuard 机场是一家2023 年开始运营的 Shadowsocks 机场，线路有公网中转、IPLC 和 IEPL 专线，节点覆盖大陆常用地区。
